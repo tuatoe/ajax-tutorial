@@ -15,8 +15,8 @@ $(function(){
                             <td class="id">' + product.id + '</td>\
                             <td><input type="text" class="name" value="' + product.name + '"></td>\
                             <td>\
-                                <button class="update-button">UPDATE/PUT</button>\
-                                <button class="delete-button">DELETE</button>\
+                                <button class="update-button">Save</button>\
+                                <button class="delete-button">Delete</button>\
                             </td>\
                         </tr>\
                     ');
